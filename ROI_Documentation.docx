@@ -1,0 +1,104 @@
+ROI Calculation Framework for TerraStake (TSTAKE)
+
+This framework provides a detailed methodology for evaluating the potential return on investment (ROI) for participants in the TerraStake ecosystem, considering staking rewards, liquidity provision, and token value appreciation.
+1. Key Parameters for ROI Calculation
+
+    Initial Investment: The capital or TSTAKE tokens contributed to staking or liquidity pools.
+    Staking Rewards: Incentives earned by staking TSTAKE tokens over a specified period.
+    Token Value Growth: Appreciation in the market price of TSTAKE tokens due to ecosystem growth and deflationary mechanisms.
+    Burn and Deflation Impact: Reduction in token supply, increasing scarcity and driving potential value growth.
+    Ecosystem Participation Rewards: Additional benefits from activities like governance voting or providing liquidity.
+
+2. ROI Formula
+
+ROI is calculated using the formula:
+ROI(%)=Net GainsInitial Investment×100
+ROI(%)=Initial InvestmentNet Gains​×100
+
+Where:
+Net Gains=(Rewards Earned + Market Value Increase - Fees Paid)
+Net Gains=(Rewards Earned + Market Value Increase - Fees Paid)
+3. ROI Projection Scenarios
+Scenario 1: Staking Rewards
+
+    Initial Investment: 10,000 TSTAKE tokens.
+    Staking Duration: 12 months.
+    Annual Reward Rate: 15% (subject to protocol adjustments).
+    Burn and Redistribution Impact: A 2% annual increase in token value due to deflationary mechanisms.
+
+Calculation:
+
+    Rewards Earned:
+    10,000×0.15=1,500 TSTAKE
+    10,000×0.15=1,500TSTAKE
+
+    Value Increase:
+    Assuming a 20% appreciation in TSTAKE price:
+        Original Value: $1 per TSTAKE.
+        New Value: $1.20 per TSTAKE.
+        Market Value Gain:
+        10,000×0.20=2,000 USD
+        10,000×0.20=2,000USD
+
+    Net Gains:
+    1,500 TSTAKE (rewards)+2,000 USD (value increase)=3,500 USD equivalent
+    1,500TSTAKE (rewards)+2,000USD (value increase)=3,500USD equivalent
+
+    ROI:
+    ROI=3,50010,000×100=35%
+    ROI=10,0003,500​×100=35%
+
+Scenario 2: Liquidity Provision
+
+    Initial Investment: $10,000 in a TSTAKE-USDC liquidity pool.
+    Annual Yield (Liquidity Rewards): 20%.
+    Impermanent Loss: Estimated at 2% due to price volatility.
+
+Calculation:
+
+    Rewards Earned:
+    10,000×0.20=2,000 USD
+    10,000×0.20=2,000USD
+
+    Impermanent Loss:
+    10,000×0.02=200 USD
+    10,000×0.02=200USD
+
+    Net Gains:
+    2,000−200=1,800 USD
+    2,000−200=1,800USD
+
+    ROI:
+    ROI=1,80010,000×100=18%
+    ROI=10,0001,800​×100=18%
+
+4. Long-Term ROI Considerations
+Factors Influencing ROI:
+
+    Token Appreciation: Growing ecosystem adoption and demand for TSTAKE can lead to substantial price increases.
+    Compounding Rewards: Re-staking earned rewards can generate exponential growth over time.
+    Governance Incentives: Active participation in protocol governance may yield additional rewards or fee discounts.
+
+5. ROI Sensitivity Analysis
+
+The ROI is sensitive to variables such as token price growth, staking reward rates, and burn impact. Below is an analysis of projected ROI under different scenarios:
+Scenario	Staking Rate (%)	Token Price Growth (%)	Burn Impact (%)	Projected ROI (%)
+A	10	10	1	21%
+B	15	20	2	35%
+C	20	30	3	50%
+6. Risks and Rewards
+Risks
+
+    Token Price Volatility: TSTAKE value can fluctuate due to market conditions.
+    Protocol Risks: Security vulnerabilities or governance disputes could impact returns.
+    Impermanent Loss: Price divergence in liquidity pools may reduce ROI.
+
+Rewards
+
+    Deflationary Benefits: Burn mechanisms and capped supply increase token value over time.
+    Ecosystem Growth: Increased protocol adoption drives demand for TSTAKE.
+    Diverse Incentives: Rewards from staking, liquidity provisioning, and governance provide multiple earning streams.
+
+7. Final Insights
+
+The TerraStake ROI model showcases strong potential for sustainable and attractive returns through staking, liquidity provision, and token value appreciation. While market conditions may introduce variability, the combination of deflationary mechanics, dynamic rewards, and ecosystem-driven demand positions TSTAKE as a valuable asset in the decentralized finance space.
